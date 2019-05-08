@@ -7,3 +7,4 @@ color_scheme: dark
 remote_theme: Hacker
 plugins:
   - jekyll-remote-theme
+theme: jekyll-theme-hacker
