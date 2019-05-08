@@ -6,4 +6,4 @@ color_scheme: dark
 
 plugins:
   - jekyll-remote-theme
-remote_theme: benbalter/retlab
+remote_theme: pmarsceill/just-the-docs
