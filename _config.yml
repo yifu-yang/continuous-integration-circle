@@ -4,6 +4,6 @@ permalink: pretty
 search_enabled: true
 color_scheme: dark
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: Hacker
 plugins:
   - jekyll-remote-theme
